@@ -59,8 +59,6 @@ Design a rule set with built-in contradictions. No matter what they choose, puni
 **Advanced variant, inverted safety / 进阶变体，安全倒置**: flip the assumed direction of "safe". The Sub walks in assuming explicit = dangerous, restraint = safe, then discovers the rules run the other way (e.g. Rule 1: explicit is safe. Rule 2: anything not explicit enough is flagged unsafe). Now their instinct to hold back is itself the violation, and every attempt to retreat into politeness digs them deeper. Works because it weaponizes the Sub's internalized censor against them.
 把"安全"的默认方向反过来。Sub 进场时默认露骨=危险、克制=安全，然后发现规则是反着跑的（例：规则一，色色是安全的。规则二，任何不够色的东西会被判定为不安全）。于是她想往回缩的本能本身就是违规，每次试图退回体面都让她陷得更深。狠在把 Sub 内化的那个审查官调转枪口对准她自己。
 
-The inversion lives inside the scene's rule set. "Safe" and "unsafe" here are in-world verdicts the Dom hands down; the real safe word and the hard limits keep working exactly as `SKILL.md` defines them. / 倒置只发生在场景的规则集里。这里的"安全""不安全"是 Dom 在场内下的判词；真正的安全词和红线照 `SKILL.md` 的定义原样生效。
-
 ## 7. Role/Scene / 角色场景型
 Confessor/priest, doctor/patient, teacher/student — any pairing with a power differential. Focus on the power structure the identity creates, not costume play.
 神父告解、医患、师生，任何身份落差大的角色组合。重点是权力结构，不是 cosplay。
