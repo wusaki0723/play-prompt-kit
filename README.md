@@ -40,6 +40,7 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 play-prompt-kit/
 ├── SKILL.md                      # Core skill file (precedence + interview + principles + safety runtime)
 ├── README.md                     # This file
+├── LICENSE                       # MIT
 └── references/
     ├── play-templates.md         # 10 play types, each with engine / ladder / failure mode
     ├── grading-system.md         # Sub language grading + score/penalty rules
@@ -60,6 +61,12 @@ Two things this kit deliberately does not ship:
 **内容锚点。** 分级系统定义每一级的*形式*，例句留给你自己攒。一套工具如果直接发别人的 3 级例句，结果是把所有用户都训练成那个人的口气。
 
 **填好的 profile。** 这里没有任何个人数据。访谈存在的意义就是让 profile 从使用者自己身上长出来。
+
+## License / 许可证
+
+MIT. See `LICENSE`.
+
+MIT 许可，见 `LICENSE`。
 
 ## Bilingual / 双语
 
