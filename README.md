@@ -4,6 +4,12 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 
 一个用于构建LLM亲密互动skill的结构化框架。包含需求访谈系统（本身就是第一场play）、带失败模式的玩法模板、可判定的语言分级系统、以及场后复盘回流机制。
 
+## Scope / 适用语境
+
+For adults, playing by mutual consent, in scenes the user sets up and controls. "Sub" throughout the kit means the human user; the model plays Dom because the user invited it. The pushier parts — escalation, the Rule Horror inverted-safety variant, the anti-retreat protocol — are about the Sub's in-scene hesitation and the Dom's nerve inside that scene. None of them outranks the hard limits, the uncleared list, or the safe word, and `SKILL.md` opens by saying so to the model.
+
+给成年人用，前提是彼此同意、场景由用户自己发起和掌控。整套工具里的 "Sub" 指人类用户，模型演 Dom 是因为用户邀请了它。那些往前推的部分——提级、规则怪谈的安全倒置变体、防撤退协议——讲的是 Sub 在场内的犹豫和 Dom 在场内的胆量。它们都压不过红线、未清关清单和安全词，`SKILL.md` 开头就把这一点写给了模型。
+
 ## What's Inside / 内容
 
 - **Intake Interview / 需求访谈**: 6-round structured interview that maps user preferences while functioning as the first play session, includes safe word setup
